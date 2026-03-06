@@ -1,0 +1,135 @@
+{
+  "error": {
+    "invalidCredentials": "Correo o contraseña incorrectos.",
+    "missingOrInvalidAuthorizationHeader": "No autorizado. Inicie sesión de nuevo.",
+    "invalidOrExpiredToken": "Sesión expirada. Inicie sesión de nuevo.",
+    "validationFailed": "Datos inválidos. Compruebe los campos.",
+    "userNotFound": "Usuario no encontrado.",
+    "emailAlreadyRegistered": "Este correo ya está registrado.",
+    "emailAlreadyInUse": "Este correo ya está en uso por otro usuario.",
+    "internalError": "Error interno del servidor. Inténtelo más tarde.",
+    "generic": "Algo salió mal. Inténtelo de nuevo."
+  },
+  "toast": {
+    "loginSuccess": "Inicio de sesión exitoso.",
+    "userCreated": "Usuario creado correctamente.",
+    "userUpdated": "Usuario actualizado correctamente.",
+    "userDeleted": "Usuario eliminado correctamente."
+  },
+  "common": {
+    "appName": "SPS Group",
+    "loading": "Cargando…",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "close": "Cerrar",
+    "themeDark": "Modo oscuro",
+    "themeLight": "Modo claro",
+    "themeDarkAria": "Activar modo oscuro",
+    "themeLightAria": "Activar modo claro",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "name": "Nombre",
+    "type": "Tipo",
+    "actions": "Acciones",
+    "userTypeAdmin": "Admin",
+    "userTypeUser": "Usuario",
+    "language": "Idioma",
+    "showPassword": "Mostrar contraseña",
+    "hidePassword": "Ocultar contraseña"
+  },
+  "lang": {
+    "portuguese": "Portugués",
+    "spanish": "Español",
+    "english": "Inglés"
+  },
+  "signIn": {
+    "title": "Iniciar sesión",
+    "welcomeTitle": "Bienvenido de nuevo",
+    "welcomeSubtitle": "Introduce tus credenciales para continuar",
+    "subtitle": "Use sus credenciales para acceder al sistema",
+    "brandSubtitle": "Sistema de Gestión de Usuarios",
+    "brandDescription": "Plataforma centralizada para control de accesos y gestión completa de usuarios.",
+    "copyright": "© 2026 SPS Group. Todos los derechos reservados.",
+    "testCredentialsTitle": "Credenciales de prueba",
+    "testCredentialsEmail": "Email:",
+    "testCredentialsPassword": "Contraseña:",
+    "emailPlaceholder": "email@gmail.com",
+    "passwordPlaceholder": "••••••••",
+    "submit": "Entrar",
+    "submitting": "Entrando…"
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "users": "Usuarios",
+    "panelTitle": "Panel Administrativo",
+    "menuLabel": "Menú",
+    "logout": "Salir del sistema",
+    "menu": "Abrir menú"
+  },
+  "home": {
+    "title": "Panel",
+    "subtitle": "Vista general del sistema",
+    "totalUsers": "Total de Usuarios",
+    "administrators": "Administradores",
+    "commonUsers": "Usuarios Comunes",
+    "systemActive": "Sistema Activo",
+    "online": "En línea",
+    "lastUsers": "Últimos Usuarios Registrados",
+    "noUsers": "Ningún usuario registrado.",
+    "loadError": "No se pudieron cargar la información. Intente de nuevo en unos instantes."
+  },
+  "users": {
+    "title": "Usuarios",
+    "subtitle": "Gestione los usuarios del sistema",
+    "searchPlaceholder": "Buscar por nombre o email...",
+    "refresh": "Actualizar",
+    "newUser": "Nuevo Usuario",
+    "noUsers": "Ningún usuario registrado.",
+    "noSearchResults": "Ningún resultado para la búsqueda.",
+    "loadError": "No se pudo cargar la lista de usuarios.",
+    "tryAgain": "Intente de nuevo en unos instantes.",
+    "editAria": "Editar",
+    "deleteAria": "Eliminar"
+  },
+  "editUser": {
+    "title": "Editar Usuario",
+    "passwordHint": "(deje vacío para mantener)",
+    "saving": "Guardando…"
+  },
+  "deleteUser": {
+    "title": "Eliminar usuario",
+    "message": "¿Eliminar al usuario \"{{name}}\"? Esta acción no se puede deshacer.",
+    "confirmPromptBefore": "Escriba",
+    "confirmPromptAfter": "para confirmar",
+    "confirmWord": "eliminar",
+    "delete": "Eliminar",
+    "deleting": "Eliminando…"
+  },
+  "userCreate": {
+    "backToUsers": "← Volver a Usuarios",
+    "formTitle": "Nuevo usuario",
+    "nameLabel": "Nombre:",
+    "namePlaceholder": "Ingrese el nombre",
+    "emailLabel": "Correo electrónico:",
+    "emailPlaceholder": "ejemplo@email.com",
+    "typeLabel": "Tipo:",
+    "passwordLabel": "Contraseña:",
+    "passwordPlaceholder": "Ingrese la contraseña",
+    "submit": "Registrar",
+    "submitting": "Registrando…"
+  },
+  "userEdit": {
+    "backToUsers": "← Volver a Usuarios",
+    "formTitle": "Edición de Usuario",
+    "nameLabel": "Nombre:",
+    "namePlaceholder": "Ingrese el nombre",
+    "emailLabel": "Correo electrónico:",
+    "emailPlaceholder": "ejemplo@email.com",
+    "typeLabel": "Tipo:",
+    "passwordLabel": "Nueva contraseña (opcional):",
+    "passwordPlaceholder": "Deje en blanco para no cambiar",
+    "submit": "Guardar",
+    "saving": "Guardando…",
+    "notFound": "Usuario no encontrado."
+  }
+}

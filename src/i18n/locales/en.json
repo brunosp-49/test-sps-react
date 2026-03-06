@@ -1,0 +1,135 @@
+{
+  "error": {
+    "invalidCredentials": "Incorrect email or password.",
+    "missingOrInvalidAuthorizationHeader": "Unauthorized. Please sign in again.",
+    "invalidOrExpiredToken": "Session expired. Please sign in again.",
+    "validationFailed": "Invalid data. Please check the fields.",
+    "userNotFound": "User not found.",
+    "emailAlreadyRegistered": "This email is already registered.",
+    "emailAlreadyInUse": "This email is already in use by another user.",
+    "internalError": "Internal server error. Please try again later.",
+    "generic": "Something went wrong. Please try again."
+  },
+  "toast": {
+    "loginSuccess": "Login successful.",
+    "userCreated": "User created successfully.",
+    "userUpdated": "User updated successfully.",
+    "userDeleted": "User deleted successfully."
+  },
+  "common": {
+    "appName": "SPS Group",
+    "loading": "Loading…",
+    "cancel": "Cancel",
+    "save": "Save",
+    "close": "Close",
+    "themeDark": "Dark mode",
+    "themeLight": "Light mode",
+    "themeDarkAria": "Enable dark mode",
+    "themeLightAria": "Enable light mode",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "type": "Type",
+    "actions": "Actions",
+    "userTypeAdmin": "Admin",
+    "userTypeUser": "User",
+    "language": "Language",
+    "showPassword": "Show password",
+    "hidePassword": "Hide password"
+  },
+  "lang": {
+    "portuguese": "Portuguese",
+    "spanish": "Spanish",
+    "english": "English"
+  },
+  "signIn": {
+    "title": "Sign in",
+    "welcomeTitle": "Welcome back",
+    "welcomeSubtitle": "Enter your credentials to continue",
+    "subtitle": "Use your credentials to access the system",
+    "brandSubtitle": "User Management System",
+    "brandDescription": "Centralized platform for access control and complete user management.",
+    "copyright": "© 2026 SPS Group. All rights reserved.",
+    "testCredentialsTitle": "Test credentials",
+    "testCredentialsEmail": "Email:",
+    "testCredentialsPassword": "Password:",
+    "emailPlaceholder": "email@gmail.com",
+    "passwordPlaceholder": "••••••••",
+    "submit": "Sign in",
+    "submitting": "Signing in…"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "users": "Users",
+    "panelTitle": "Admin Panel",
+    "menuLabel": "Menu",
+    "logout": "Log out",
+    "menu": "Open menu"
+  },
+  "home": {
+    "title": "Dashboard",
+    "subtitle": "System overview",
+    "totalUsers": "Total Users",
+    "administrators": "Administrators",
+    "commonUsers": "Regular Users",
+    "systemActive": "System Active",
+    "online": "Online",
+    "lastUsers": "Last Registered Users",
+    "noUsers": "No users registered.",
+    "loadError": "Could not load the information at this time. Please try again in a moment."
+  },
+  "users": {
+    "title": "Users",
+    "subtitle": "Manage system users",
+    "searchPlaceholder": "Search by name or email...",
+    "refresh": "Refresh",
+    "newUser": "New User",
+    "noUsers": "No users registered.",
+    "noSearchResults": "No results for your search.",
+    "loadError": "Could not load the user list.",
+    "tryAgain": "Please try again in a moment.",
+    "editAria": "Edit",
+    "deleteAria": "Delete"
+  },
+  "editUser": {
+    "title": "Edit User",
+    "passwordHint": "(leave empty to keep)",
+    "saving": "Saving…"
+  },
+  "deleteUser": {
+    "title": "Delete user",
+    "message": "Delete user \"{{name}}\"? This action cannot be undone.",
+    "confirmPromptBefore": "Type",
+    "confirmPromptAfter": "to confirm",
+    "confirmWord": "delete",
+    "delete": "Delete",
+    "deleting": "Deleting…"
+  },
+  "userCreate": {
+    "backToUsers": "← Back to Users",
+    "formTitle": "New user",
+    "nameLabel": "Name:",
+    "namePlaceholder": "Enter name",
+    "emailLabel": "Email:",
+    "emailPlaceholder": "example@email.com",
+    "typeLabel": "Type:",
+    "passwordLabel": "Password:",
+    "passwordPlaceholder": "Enter password",
+    "submit": "Register",
+    "submitting": "Registering…"
+  },
+  "userEdit": {
+    "backToUsers": "← Back to Users",
+    "formTitle": "Edit User",
+    "nameLabel": "Name:",
+    "namePlaceholder": "Enter name",
+    "emailLabel": "Email:",
+    "emailPlaceholder": "example@email.com",
+    "typeLabel": "Type:",
+    "passwordLabel": "New password (optional):",
+    "passwordPlaceholder": "Leave blank to keep unchanged",
+    "submit": "Save",
+    "saving": "Saving…",
+    "notFound": "User not found."
+  }
+}
