@@ -8,6 +8,14 @@ CRUD de usuários com login e rotas protegidas. Instruções para rodar o projet
 - **CRUD completo de usuários:** listar, cadastrar, editar e excluir.
 - **Acesso restrito:** apenas usuários autenticados acessam a lista e as ações; rotas protegidas com redirecionamento para `/signin`.
 
+## Testar online
+
+Você pode testar o app em produção sem rodar localmente:
+
+- **URL:** [https://test-sps-react-sage.vercel.app](https://test-sps-react-sage.vercel.app)
+
+O front-end em produção depende de uma API (back-end) acessível pela internet. Se a API estiver indisponível ou em outro endereço, o login pode falhar; nesse caso, use as instruções abaixo para rodar o projeto localmente com seu próprio back-end.
+
 ## Como rodar o projeto
 
 1. **Tenha o back-end rodando**
